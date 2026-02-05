@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1730169480 source:c:\users\jimen\onedrive\c++ programs\jimenez_midterm1.1\main.cpp
+	<iostream>
+	"Textbook.hpp"
+	"Novel.hpp"
+
+1730169830 c:\users\jimen\onedrive\c++ programs\jimenez_midterm1.1\textbook.hpp
+	<string>
+
+1730169830 c:\users\jimen\onedrive\c++ programs\jimenez_midterm1.1\novel.hpp
+	<string>
+
+1730169830 source:c:\users\jimen\onedrive\c++ programs\jimenez_midterm1.1\novel.cpp
+	<iostream>
+	"Novel.hpp"
+
+1730169830 source:c:\users\jimen\onedrive\c++ programs\jimenez_midterm1.1\textbook.cpp
+	<iostream>
+	"Textbook.hpp"
+

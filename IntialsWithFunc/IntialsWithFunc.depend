@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1726873667 source:c:\users\jimen\onedrive\c++ programs\intialswithfunc\main.cpp
+	<iostream>
+	"Func.h"
+
+1726873433 c:\users\jimen\onedrive\c++ programs\intialswithfunc\func.h
+
+1726873632 source:c:\users\jimen\onedrive\c++ programs\intialswithfunc\func.cpp
+	<iostream>
+	"func.h"
+	<iomanip>
+

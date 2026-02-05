@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727920819 source:c:\users\jimen\onedrive\c++ programs\corpsalesrecord\getfunc.cpp
+	<iostream>
+	<iomanip>
+
+1727904672 source:c:\users\jimen\onedrive\c++ programs\corpsalesrecord\main.cpp
+	<iostream>
+	"GetFunc.h"
+
+1727904672 c:\users\jimen\onedrive\c++ programs\corpsalesrecord\getfunc.h
+
